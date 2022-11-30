@@ -15,6 +15,15 @@
 ## Project summary (<300 words)
 Describe the overall aim of your project and what you have achieved.
 
+The project aims to optimise the genome-scale model (GSM) IJN678 of Synechocystis sp. PCC 6803 for the production of Squalene (C30H50), a triterpene, which has applications in pharmaceutical, cosmetic industry and could also be used as biofuel. The model was chosen not only based on its adequacy but also its fidelity.
+
+Firstly, the maximum growth and yields under three different conditions, autotrophic, mixotrophic and heterotrophic were analysed. Even though, autotrophic condition did not give the highest growth rate, but the productivity is substantially higher. Moreover, from a sustainable point of view, autotrophy is considered the best mode of operation for squalene production. 
+
+
+
+
+
+
 ## Project overview
 Describe how your project is organized ...
 
